@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ignacio Atal's website"
+title                    : "Ignacio Atal"
 title_separator          : "-"
 name                     : &name "Ignacio Atal"
 description              : &description "personal description"

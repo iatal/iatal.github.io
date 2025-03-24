@@ -16,3 +16,8 @@ Trained as an engineer, I obtained my PhD in Public Health and Epidemiology at P
 I then obtained a Long-term research fellowship (2018-2024) at the Learning Planet Institute (formerly CRI-Paris), where I created and coordinated the [Profs-Chercheurs programme](https://profschercheurs.org). Profs-Chercheurs is a programme based on citizen science and collective intelligence to support educators in tackling common professional challenges, through the use of research methods and a dedicated collaborative platform. 
 
 Since December 2024 I joined LaRAC to lead a critical analysis of the way meta-analyses are undertaken in education, with a particular interest in how meta-analyses take (or not) into account the heterogeneity of studies when aggregating their results.
+
+Furthermore, I am also
+
+- Since 2019: Member of the Ethics committee for educational data from the French National Education Ministry. [More info here](https://www.education.gouv.fr/le-comite-d-ethique-pour-les-donnees-d-education-12146).
+- Since 2020: Member of the Editorial board of the Jounal of Clinical Epidemiology. [More info here](https://www.jclinepi.com/content/edboard)

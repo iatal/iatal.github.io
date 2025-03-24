@@ -2,7 +2,7 @@
 title: "Citizen science for educational sciences: engaging educators in the production of structured practice-based evidence at a large scale"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-03-24-citizen-science-for-educ
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-03-24
 venue: 'Journal 1'

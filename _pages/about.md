@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in educational sciences. My main interest is the understanding of the mechanisms involved in the construction and dissemination of knowledge that can help teachers to better support their students. I wonder how to build, aggregate and share data from educational experiments in order to inform teaching practices.
+I am a researcher in educational sciences. My main interest is the understanding of the mechanisms involved in the construction and dissemination of knowledge that can help teachers better supporting their students. I wonder how to build, aggregate and disseminate data from educational experiments in order to inform teaching practices.
 
 Short bio
 =====

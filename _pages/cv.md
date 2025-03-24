@@ -11,48 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Public Health & Epidemiology, Université Paris Descartes, Paris (2017)
+* M.S. in Cognitive Scienes & Complex Systems, École Polytechnique, Palaiseau (2014)
+* Engineering diploma, École Polytechnique, Palaiseau (2014)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2024 - Present: Post-doctoral fellow
+  * LaRAC, Université Grenoble Alpes, Grenoble
+  * Critical analysis of meta-analyses in education
+  * With: Pascal Bressoux, Pascal Pansu, Laurent Lima
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2024: Research Fellow
+  * SEED - UMR1284, INSERM-Université Paris Cité, CRI-Paris / Learning Planet Institute, Paris
+  * Profs-Chercheurs: citizen science and collective intelligence for the educational sciences
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2018: Post-doctoral fellow
+  * CRESS - UMR1153, INSERM-Université Paris Descartes, French Cochrane Center, Assistance Publique Hôpitaux de Paris, Paris
+  * Fragility index of meta-analyses
+  * With: Philippe Ravaud, Isabelle Boutron, Raphaël Porcher
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
+
+<!---  
+ Talks
+ ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -62,3 +54,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+

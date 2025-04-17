@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Ignacio Atal"
 title_separator          : "-"
 name                     : &name "Ignacio Atal"
-description              : &description "personal description"
+description              : &description "Ignacio Atal's personal website"
 url                      : https://iatal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7323-6511"
   semantic         : # URL
-  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Atal+I&cauthor_id=32205374"
   researchgate     : # URL
   scopus           : # URL
 
@@ -123,7 +123,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : google225ca70ff6251cb2.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
